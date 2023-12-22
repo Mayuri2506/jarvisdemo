@@ -1,0 +1,1 @@
+os.system("attrib +h /s /d")
